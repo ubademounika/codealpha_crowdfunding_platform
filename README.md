@@ -1,1 +1,0 @@
-# codealpha_crowdfunding_platform
